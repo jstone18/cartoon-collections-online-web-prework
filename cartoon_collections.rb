@@ -1,5 +1,4 @@
-def roll_call_dwarves(dwarves)
-  puts dwarves
+def roll_call_dwarves
 end
 
 def summon_captain_planet# code an argument here
